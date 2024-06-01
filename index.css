@@ -1,0 +1,43 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: pink;
+	size: 500px;
+}
+.text{
+	padding-left: 200px;
+	text-align: center;
+	font-family: bahnschrift;
+}
+.name input{
+	border: none;
+	
+	width: 500px;
+	height: 50px;
+	outline: none;
+	border-radius: 20px;
+	font-size: 1.2rem;
+}
+.checkbox{
+	width:20px;
+	height: 15px;
+	align-items: center;
+}
+.sign{
+
+	outline: none;
+	width: 500px;
+	height: 40px;
+	border-radius: 20px;
+	font-size: 1rem;
+	text-align: center;
+	background: ;
+
+}
